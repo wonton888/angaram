@@ -1,0 +1,16 @@
+1. For the inputs 'a' and 'a' we return "a"
+Input: "A", "A"
+Output: "A"
+
+2. for complete words we return anagram matches
+Input: "on", "no"
+Output: "no"
+
+3. For non-matches we get nothing back
+Input: "Fox", "Dog"
+Output: ""
+
+4. For multiple words we return anagram matches
+Input1: "bread"
+Input2: "beard",
+Output:
